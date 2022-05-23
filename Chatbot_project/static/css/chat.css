@@ -1,3 +1,7 @@
+.heading{
+    text-align: center;
+    padding: 240px;
+}
 .chat-bar-collapsible {
     position: fixed;
     bottom: 0;
